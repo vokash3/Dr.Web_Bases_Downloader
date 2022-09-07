@@ -1,0 +1,1 @@
+"%CD%\drwupsrv.exe" -c download -s 90 --zones=%CD%\drwzones.xml --repo-dir %CD%\repo --key-dir=%CD%\..\..\..\key\ --data-dir=%CD% --progress-to-console --log-dir=%CD% --verbosity debug

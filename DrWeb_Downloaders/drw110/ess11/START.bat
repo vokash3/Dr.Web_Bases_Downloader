@@ -1,0 +1,1 @@
+"%CD%\drweb-reploader-gui-windows-x64" --config ".\drwreploader.conf" --noui

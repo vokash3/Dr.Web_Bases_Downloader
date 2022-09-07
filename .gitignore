@@ -1,0 +1,7 @@
+#*.key
+**/repo
+**/temp_lzma
+*.log
+*.zip
+*.md5
+.idea

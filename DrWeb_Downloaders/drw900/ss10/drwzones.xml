@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zones>
+
+  <geo-update path="/xmlzone/fstek2015may/release/1000/windows">
+      <server name="geo drweb update" address="update.geo.drweb.com"/>
+  </geo-update>
+
+  <path value="/xmlzone/fstek2015may/release/1000/windows"/>
+  <protocol value="http"/>
+
+  <zone name="zone1" address="update.drweb.com"/>
+  <zone name="zone2" address="update.msk.drweb.com"/>
+  <zone name="zone3" address="update.us.drweb.com"/>
+  <zone name="zone4" address="update.msk5.drweb.com"/>
+  <zone name="zone5" address="update.msk6.drweb.com"/>
+  <zone name="zone6" address="update.msk11.drweb.com"/>
+  <zone name="zone7" address="update.msk12.drweb.com"/>
+  <zone name="zone8" address="update.fr1.drweb.com"/>
+  <zone name="zone9" address="update.us1.drweb.com"/>
+  <zone name="zone10" address="update.kz.drweb.com"/>
+  <zone name="zone11" address="update.nsk1.drweb.com"/>
+  
+<sign value="012AA199B5E8898DEBDA31727B27A06936145338C7B15EC9BB26566105F0EBDEEB6A890F9ABD5FC343365494FB9888CF76285D698608955D25FBD7A879D5CEEA"/>
+</zones>

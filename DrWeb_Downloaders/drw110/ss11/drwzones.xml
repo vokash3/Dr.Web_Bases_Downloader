@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zones>
+
+  <geo-update path="/xmlzone/release/1100/windows">
+      <server name="geo drweb update" address="update.geo.drweb.com"/>
+  </geo-update>
+
+  <drwzones-update path="/drwzone/xmlzone/release/1100/windows">
+      <server name="amazon update" address="s3.eu-central-1.amazonaws.com"/>
+      <server name="google update" address="storage.googleapis.com"/>
+  </drwzones-update>
+
+  <path value="/xmlzone/release/1100/windows"/>
+  <protocol value="http"/>
+
+  <zone name="zone1" address="195.161.158.50"/>
+  <zone name="zone2" address="213.59.3.178"/>
+  <zone name="zone3" address="217.16.27.61"/>
+  <zone name="zone4" address="217.67.177.162"/>
+  <zone name="zone5" address="217.67.177.163"/>
+  <zone name="zone6" address="217.67.177.164"/>
+  <zone name="zone7" address="46.46.160.203"/>
+  <zone name="zone8" address="81.176.67.172"/>
+  <zone name="zone9" address="81.176.67.173"/>
+  <zone name="zone10" address="83.222.3.90"/>
+  <zone name="zone11" address="85.10.234.30"/>
+  <zone name="zone12" address="87.242.75.131"/>
+  <zone name="zone13" address="89.111.188.126"/>
+  <zone name="zone14" address="89.111.188.80"/>
+  <zone name="zone15" address="188.254.56.226"/>
+  <zone name="zone16" address="188.254.56.227"/>
+  <zone name="zone17" address="188.254.56.228"/>
+
+<sign value="8CAE8BC1C660A62BFD20F8DD8B23B849742E795A805791D7031AC2088E5662F6298B91D65F9BA70997CA15879AC0E66A0FD3B38C1C7A017C81237B72DE9F8389"/>
+</zones>

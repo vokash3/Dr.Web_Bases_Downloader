@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zones>
+
+  <geo-update path="/xmlzone/release/900/windows">
+      <server name="geo drweb update" address="update.geo.drweb.com"/>
+  </geo-update>
+
+  <path value="/xmlzone/release/900/windows"/>
+  <protocol value="http"/>
+
+  <zone name="zone1" address="update.drweb.com"/>
+  <zone name="zone2" address="update.msk.drweb.com"/>
+  <zone name="zone3" address="update.us.drweb.com"/>
+  <zone name="zone4" address="update.msk5.drweb.com"/>
+  <zone name="zone5" address="update.msk6.drweb.com"/>
+  <zone name="zone6" address="update.msk11.drweb.com"/>
+  <zone name="zone7" address="update.msk12.drweb.com"/>
+  <zone name="zone8" address="update.fr1.drweb.com"/>
+  <zone name="zone9" address="update.us1.drweb.com"/>
+  <zone name="zone10" address="update.kz.drweb.com"/>
+  <zone name="zone11" address="update.nsk1.drweb.com"/>
+  
+<sign value="C0F62FCC58AC0545F4A2AF5F5EB2BBB32C4552CAF3230C34B1D2F635F36304A7CC42944D868CAA1A9AB8B84FB6222F82FC250146C81DDE2BDD5D8F965EBEB759"/>
+</zones>
